@@ -1,2 +1,2 @@
 # StepicGitHomework
-Project for review
+Project made for Stepic Selenium course for review
